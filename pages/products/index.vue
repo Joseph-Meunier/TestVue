@@ -5,6 +5,6 @@
   </div>
 </template>
 
-<script setup lang="ts">
+<script setup lang='ts'>
 // Le composant ProductList sera automatiquement importé grâce à l'auto-import de Nuxt
 </script>
